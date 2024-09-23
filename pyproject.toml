@@ -8,6 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 uvicorn = "^0.30.6"
+requests = "^2.32.3"
+pytest = "^8.3.3"
 
 
 [build-system]
